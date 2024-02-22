@@ -1,1 +1,1 @@
-aleart("hello, how are you");
+alert("hello, how are you");
